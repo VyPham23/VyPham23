@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**I'm Mai Vy, currently a university students.**
+**I'm Mai Vy, currently a university student.**
 
 - 😄 Pronouns: She/They
 - ♓ Zodiac: Pisces
