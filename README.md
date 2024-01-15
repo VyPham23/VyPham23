@@ -9,4 +9,4 @@
 - 🌱 I’m learning Computer Science and Engineering
 - 📫 Contact me via <a href="mailto:vy.pham200210@vnuk.edu.vn">Email</a>
 
-
+![](https://komarev.com/ghpvc/?username=VyPham23&color=brightgreen)
